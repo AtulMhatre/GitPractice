@@ -2,7 +2,7 @@ Feature: Verify Flipkart HomePage
 @sanity @regression
 Scenario: Verify title of page
 Given User is at landing page
-Then Title contains "Online Shopping Site"
+Then Title contains "Atul"  
 
 @regression
 Scenario: Verify search Functionality
